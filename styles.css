@@ -117,14 +117,14 @@ h1, h2{
   display: inline-block;
   padding: 13px 20px;
   color: var(--dark);
-  background-color: var(--green);
+  background-color: #8db8e8;
   font-size: 14px;
   font-weight: 900;
   -webkit-text-stroke: 0.25px currentColor;
 }
 
 .button:hover {
-  background-color: #a8c653;
+  background-color: #72a4dc;
 }
 
 /* 최근 글 */
