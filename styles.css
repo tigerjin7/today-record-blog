@@ -287,3 +287,10 @@ h1, h2{
     gap: 8px;
   }
 }
+
+
+/* 최근 글 보기 버튼 글씨를 굵게 표시 */
+.button {
+  font-weight: 900;
+  -webkit-text-stroke: 0.25px currentColor;
+}
